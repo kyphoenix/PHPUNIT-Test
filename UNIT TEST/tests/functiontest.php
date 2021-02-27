@@ -2,7 +2,7 @@
 
 
 
-class functiontest extends TestCase
+class functiontest extends PHPUnit\Framework\TestCase
 {
     public function sumReturnsTheCorrectValue()
     {
